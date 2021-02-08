@@ -2,10 +2,7 @@
 <!--
 **Daxo32/Daxo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Hi <img src="https://github.com/Daxo32/main/Hi.gif" width="29px">, I'm [Davide Canci!]
- 
 
-<img align="right" src="https://github.com/Daxo32/main/coding.gif" alt="Coder GIF" width="500" height="400">
 
 <a href="https://www.linkedin.com/in/davide-canci-638a77140/">
   <img align="left" alt="Davide's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,8 +11,6 @@
   <img align="left" alt="Davide's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br><br>
-
-
 
 
 
