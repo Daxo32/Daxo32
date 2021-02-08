@@ -1,6 +1,6 @@
 
 <!--
-**Daxo32/Daxo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Daxo32/Daxo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## Hi <img src="https://github.com/Daxo32/master/Hi.gif" width="29px">, I'm [Davide Canci!]
  
