@@ -2,10 +2,10 @@
 <!--
 **Daxo32/Daxo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Hi <img src="https://github.com/Daxo32/master/Hi.gif" width="29px">, I'm [Davide Canci!]
+## Hi <img src="https://github.com/Daxo32/main/Hi.gif" width="29px">, I'm [Davide Canci!]
  
 
-<img align="right" src="https://github.com/Daxo32/master/coding.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://github.com/Daxo32/main/coding.gif" alt="Coder GIF" width="500" height="400">
 
 <a href="https://www.linkedin.com/in/davide-canci-638a77140/">
   <img align="left" alt="Davide's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -26,8 +26,8 @@
 - 📫 How to reach me: canci.davide@gmail.com;
 <br><br><br><br>
 
-![](https://img.shields.io/static/v1?label=<LABEL>&message=React&color=green) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)<a href="https://github.com/Daxo32">
-  <img src="https://komarev.com/ghpvc/?username=Daxo32&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
+![](https://img.shields.io/badge/React-%7C-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)<a href="https://github.com/Daxo32">
+  <img src="https://komarev.com/ghpvc/?username=Daxo32&label=Views&color=blue&style=plastic" alt="Daxo32" />
 </a>
 
 <br><br><br><br>
