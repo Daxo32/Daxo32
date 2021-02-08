@@ -1,7 +1,9 @@
 
 <!--
 **Daxo32/Daxo32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+## Hi <img src="https://github.com/Daxo32/Daxo32/blob/main/Hi.gif" width="29px">, I'm Davide Canci
+ 
+<img align="right" src="https://github.com/Daxo32/Daxo32/blob/main/coding.gif" alt="Coder GIF" width="480" height="300">
 
 
 <a href="https://www.linkedin.com/in/davide-canci-638a77140/">
@@ -16,12 +18,12 @@
 
 
 - :telescope: I'm currently studying Iot & BigData in UNIUD 💻;
-- :hourglass_flowing_sand: Self Learning in ML and DL;
+- :hourglass_flowing_sand: Self Learning ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: canci.davide@gmail.com;
 <br><br><br><br>
 
-![](https://img.shields.io/badge/React-%7C-blue) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)<a href="https://github.com/Daxo32">
+ ![](https://img.shields.io/badge/React-%7C-green) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Nodejs-%7C-red) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Javascript-%7C-yellow) ![](https://img.shields.io/badge/Web%20Developer-%7C-purple)<a href="https://github.com/Daxo32">
   <img src="https://komarev.com/ghpvc/?username=Daxo32&label=Views&color=blue&style=plastic" alt="Daxo32" />
 </a>
 
