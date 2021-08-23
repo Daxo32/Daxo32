@@ -17,7 +17,7 @@
 
 
 
-- :telescope: I'm currently studying Iot & BigData in UNIUD 💻;
+- :telescope: I'm a Web Dev 💻;
 - :hourglass_flowing_sand: Self Learning ML and DL
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) 
 - 📫 How to reach me: canci.davide@gmail.com
