@@ -20,7 +20,7 @@
 - :telescope: I'm a Web Dev 💻;
 - :hourglass_flowing_sand: Self Learning ML and DL
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) 
-- 📫 How to reach me: canci.davide@gmail.com
+- 📫 How to reach me: davide.canci@gmail.com
 <br><br><br><br>
 
  ![](https://img.shields.io/badge/React-%7C-green) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Nodejs-%7C-red) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Javascript-%7C-yellow) ![](https://img.shields.io/badge/Web%20Developer-%7C-purple)<a href="https://github.com/Daxo32">
