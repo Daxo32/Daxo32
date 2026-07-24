@@ -15,7 +15,7 @@
 <br><br>
 
 
-- :hourglass_flowing_sand: Currently studying ML and DL
+- :hourglass_flowing_sand: Currently at Volvo
 - 💬 I love connecting with different people so if you want any help or just chat, I'll be happy to meet you! :) 
 - 📫 How to reach me: davide.canci@gmail.com
 <br><br><br><br>
